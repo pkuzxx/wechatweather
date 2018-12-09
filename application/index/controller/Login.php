@@ -11,6 +11,7 @@ class Login extends Controller
     }
   //以下是自己编写的
   
+  
    public function register()
     {
        return $this->fetch();
